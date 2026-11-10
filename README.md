@@ -1,15 +1,49 @@
-# Esercizio: FizzBuzz
-Nome repo: `js-fizzbuzz`
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-## Consegna
-Scrivi un programma che stampi i numeri da 1 a 100,
-ma per i multipli di 3 stampi “Fizz” al posto del numero e per i multipli di 5 stampi Buzz.
-Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
+# 🎓 Exercise 16/50 - FizzBuzz
 
-Prima di partire a scrivere codice poniamoci qualche domanda:
-Come faccio a sapere se un numero è divisibile per?
-Abbiamo visto qualcosa di particolare che possiamo usare?
+## 📌 Project Overview
 
-**Consigli del giorno**
-* scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
-* proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
+| Property | Details |
+|:--|:--|
+| Repository | js-fizzbuzz |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 16/50 |
+
+## 🎯 Assignment
+
+Write a program that prints the numbers from **1 to 100**, following these rules:
+
+- For multiples of **3**, print `"Fizz"` instead of the number.
+- For multiples of **5**, print `"Buzz"` instead of the number.
+- For numbers that are multiples of **both 3 and 5**, print `"FizzBuzz"`.
+
+### 🧠 Before You Start
+
+Before writing any code, take a moment to consider these questions:
+
+- How can you determine whether a number is divisible by another number?
+- Have you already learned about a particular JavaScript operator that could help you solve this problem?
+
+### 💡 Tips and Guidelines
+
+1. Always start by writing comments in Italian to outline what you want the program to do.
+2. Try to imagine the operations your program needs to perform, just as you would carry them out manually.
+
+Break the problem down into simple steps before translating your reasoning into code.
+
+## 🛠️ Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 💡 What I Learned
+
+- Using `for` loops to iterate through a sequence of numbers.
+- Applying conditional statements to handle different cases.
+- Checking divisibility using the remainder operator (`%`).
+- Developing problem-solving skills through step-by-step reasoning.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
