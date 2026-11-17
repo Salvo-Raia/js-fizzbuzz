@@ -21,8 +21,6 @@ Write a program that prints the numbers from **1 to 100**, following these rules
 - For multiples of **5**, print `"Buzz"` instead of the number.
 - For numbers that are multiples of **both 3 and 5**, print `"FizzBuzz"`.
 
-### 
-
 ### 🔎 Notes
 
 Always start by writing comments in Italian to outline what you want the program to do.
