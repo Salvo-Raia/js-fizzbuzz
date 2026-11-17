@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 16/50 - FizzBuzz
+# 🎓 Exercise 16/50: FizzBuzz
+
+A JavaScript exercise focused on loops, conditional logic, and the use of the remainder operator to solve the classic FizzBuzz problem.
 
 ## 📌 Project Overview
 
@@ -19,19 +21,20 @@ Write a program that prints the numbers from **1 to 100**, following these rules
 - For multiples of **5**, print `"Buzz"` instead of the number.
 - For numbers that are multiples of **both 3 and 5**, print `"FizzBuzz"`.
 
-### 🧠 Before You Start
+### 
+
+### 🔎 Notes
+
+Always start by writing comments in Italian to outline what you want the program to do.
+
+Try to imagine the operations your program needs to perform, just as you would carry them out manually.
+
+Break the problem down into simple steps before translating your reasoning into code.
 
 Before writing any code, take a moment to consider these questions:
 
 - How can you determine whether a number is divisible by another number?
 - Have you already learned about a particular JavaScript operator that could help you solve this problem?
-
-### 💡 Tips and Guidelines
-
-1. Always start by writing comments in Italian to outline what you want the program to do.
-2. Try to imagine the operations your program needs to perform, just as you would carry them out manually.
-
-Break the problem down into simple steps before translating your reasoning into code.
 
 ## 🛠️ Technologies
 
@@ -46,4 +49,4 @@ Break the problem down into simple steps before translating your reasoning into 
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
