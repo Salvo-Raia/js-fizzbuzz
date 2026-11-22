@@ -35,7 +35,7 @@ Before writing any code, take a moment to consider these questions:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## What I Learned
+## What I learned
 
 - Using `for` loops to iterate through a sequence of numbers.
 - Applying conditional statements to handle different cases.
@@ -44,4 +44,4 @@ Before writing any code, take a moment to consider these questions:
 
 ## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
