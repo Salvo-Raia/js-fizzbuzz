@@ -8,11 +8,11 @@ A JavaScript exercise focused on loops, conditional logic, and the use of the re
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-fizzbuzz | FizzBuzz | Exercise | JavaScript loops & Conditional logic | 16/50 |
+| js-fizzbuzz | FizzBuzz | Exercise | JavaScript, loops & Conditional logic | 16/50 |
 
 ## Assignment
 
-Write a program that prints the numbers from **1 to 100**, following these rules:
+Write a program that prints the numbers from **1 to 100**, following these rules.
 
 - For multiples of **3**, print `"Fizz"` instead of the number.
 - For multiples of **5**, print `"Buzz"` instead of the number.
