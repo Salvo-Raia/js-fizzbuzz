@@ -8,7 +8,7 @@ A JavaScript exercise focused on loops, conditional logic, and the use of the re
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-fizzbuzz | FizzBuzz | Exercise | JavaScript, loops & Conditional logic | 16/50 |
+| js-fizzbuzz | FizzBuzz | Exercise | JavaScript, for loops & Conditional logic | 16/50 |
 
 ## Assignment
 
